@@ -1,7 +1,7 @@
 ### Olá, Padawan !!! Muito Prazer, Felipe 👋
 🔭 Atualmente Trabalho Como Barbeiro <P>
 
-🌱 Estudando programação por que curto muito...
+🌱 Estudando_programação_por_que_curt_muito...
 
 <!--
 **felipecode2021/felipecode2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
